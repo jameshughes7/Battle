@@ -9,4 +9,5 @@ group :development do
   gem 'rspec'
   gem 'sinatra'
   gem 'capybara'
+  gem 'shotgun'
 end
